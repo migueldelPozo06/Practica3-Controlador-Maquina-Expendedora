@@ -1,1 +1,1 @@
-Práctica 3: Controlador Máquina Expendedora
+# Práctica 3: Controlador Máquina Expendedora
