@@ -2,6 +2,12 @@
 ## 1. Introducción
 La practica 3: Máquina expendedora automática con Arduino UNO, consiste en programar con Arduino IDE un software, que pueda ejecutarse en un arduino UNO, ademas se ha tenido que realizar un montaje con los componentes necesarios. La maquina expendedora que se ha pedido implementar, debe cargar, detectar al cliente, mostrar información ambiental, permitir la selección del producto deseado y proporcionarlo, ademas de un modo admin que permite acceder a los sensores y un sub-menu para modificar los precios.
 
+### 1.1. Funcionamiento del sistema:
+
+[Video modo servicio](https://youtu.be/LYOKA6V9D0s)
+
+[Video modo administrador y reboot](https://youtu.be/f2h-99fnkrk)
+
 ## 2. Componentes hardware utilizados
 Se han utilizado los siguientes componentes hardware:
 - Pantalla lcd: ha sido utilizada para mostrar toda la información de la maquina expendedora.
