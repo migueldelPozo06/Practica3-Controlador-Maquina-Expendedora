@@ -15,11 +15,17 @@ Se han utilizado los siguientes componentes hardware:
 
 - Un arduino UNO.
 
+Fotos del montaje del circuito
+<img width="1052" height="799" alt="imagen" src="https://github.com/user-attachments/assets/a0fb7b38-5010-4704-9f50-65123bf4acd6" />
+
+<img width="1052" height="799" alt="imagen" src="https://github.com/user-attachments/assets/4b2c29bb-a956-4eb5-bf6a-27bd3cc82340" />
+
+
 ## 3. Diseño y montaje del circuito
 Para montar el circuito se ha utilizado una protoboard en la que se han puesto los componentes que se necesita tener fijos, como el joystick(para evitar falsas lecturas) y la pantalla(debido al numero de pines que necesita para funcionar), el botón y los leds, en cambio el sensor de ultrasonidos y el sensor DHT se han podido conectar con cables sin la protoboard ya que son sensores menos sensibles a movimientos.
 
 Diseño del circuito.
-
+<img width="1166" height="695" alt="imagen" src="https://github.com/user-attachments/assets/39515cac-224c-46f0-a522-f027d5c48500" />
 
 ## 4. Arquitectura y funcionamiento del software
 ### 4.1. Organización general del programa
